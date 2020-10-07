@@ -14,9 +14,11 @@ Redis an in memory data structure store is used for keeping track of requests ma
 
 REST API 
 * http://localhost:5000/api/users?api_key=testToken
+* http://localhost:5000/api/users/status?api_key=testToken
 
 <img src="images/request_success.png" width1="400" height1="200">
 <img src="images/request_rate_limited.png" width1="400" height1="200">
+<img src="images/request_status.png" width1="400" height1="200">
 
 
 ### Getting Started
