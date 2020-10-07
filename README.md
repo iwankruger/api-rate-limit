@@ -22,7 +22,7 @@ REST API
 ### Getting Started
 
 In the root of the project, run the following docker command.
-The first command will build the dockers.  The second command invokes the Node.js application and MySQL docker.
+The first command will build the dockers.  The second command invokes the Node.js application and Redis docker.
 ```
 > docker-compose build
 > docker-compose up
