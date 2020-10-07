@@ -1,0 +1,18 @@
+{
+    "development": {
+        "limitWindowSeconds": 86400,
+        "LimitWindowRequestCount": 10
+    },
+    "development-docker": {
+        "limitWindowSeconds": 86400,
+        "LimitWindowRequestCount": 10
+    },
+    "test": {
+        "limitWindowSeconds": 10,
+        "LimitWindowRequestCount": 10
+    },
+    "production": {
+        "limitWindowSeconds": 86400,
+        "LimitWindowRequestCount": 10
+    }
+  }

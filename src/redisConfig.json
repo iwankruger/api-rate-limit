@@ -1,0 +1,19 @@
+{
+    "development": {
+        "host": "172.17.0.1",
+        "port": 6379
+    },
+    "development-docker": {
+        "host": "172.17.0.1",
+        "port": 6379
+    },
+    "test": {
+        "host": "172.17.0.1",
+        "port": 6379
+    },
+    "production": {
+        "host": "172.17.0.1",
+        "port": 6379
+    }
+  }
+  
